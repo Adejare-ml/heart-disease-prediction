@@ -1,4 +1,6 @@
-Heart Disease Risk Prediction System
+# Heart Disease Risk Prediction System
+
+> **Research and education only.** This repository does not document clinical validation. Treat its predictions as experimental; do not use them for diagnosis, treatment, triage, or other patient-care decisions.
 
 The Heart Disease Risk Prediction System is a machine learning-based application designed to predict a person's risk of developing heart disease based on key medical and lifestyle-related parameters. This system analyzes patient data using classification algorithms to determine whether the individual is at high or low risk for heart disease.
 
